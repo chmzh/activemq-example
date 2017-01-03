@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guo.mq.examples</groupId>
-	<artifactId>guo-mq02</artifactId>
+	<artifactId>activemq-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>guo-mq02</name>
+	<name>activemq-example</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
